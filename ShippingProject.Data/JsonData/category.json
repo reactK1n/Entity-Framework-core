@@ -1,0 +1,32 @@
+[
+  {
+    "id": "f1da7354-cdff-4d55-9697-094ee837037c",
+    "name": "Electronics",
+    "description": "Consequat id velit proident et exercitation laborum."
+  },
+  {
+    "id": "41981637-1920-4b41-8ea8-23a23c7ded67",
+    "name": "Telephone",
+    "description": "Cupidatat in enim reprehenderit sint nisi."
+  },
+  {
+    "id": "58f32d5d-be62-44f1-a37c-c6d26704779a",
+    "name": "Motocycle",
+    "description": "Anim nisi irure incididunt consequat fugiat anim."
+  },
+  {
+    "id": "5bfbfd70-e653-41c1-8741-0c572d7163a8",
+    "name": "Baby Care",
+    "description": "Cupidatat sunt quis ut ex."
+  },
+  {
+    "id": "893eeade-c79d-4461-9580-e09a59882474",
+    "name": "Computing",
+    "description": "Et pariatur proident anim excepteur laboris consectetur ex duis velit."
+  },
+  {
+    "id": "20648579-f93e-4535-a3b1-c1e4fbc1f6f9",
+    "name": "Home Appliance",
+    "description": "Et commodo do cupidatat amet ipsum."
+  }
+]

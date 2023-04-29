@@ -1,0 +1,47 @@
+[
+  {
+    "id": "68a5f214-5bce-47fa-b3e5-7193cc54cb20",
+    "organisationName": "SOFTMICRO",
+    "organisationAddress": "94 Sutter Avenue"
+  },
+  {
+    "id": "9d966c75-6ddf-441f-b56d-70e1298f89b2",
+    "organisationName": "PHUEL",
+    "organisationAddress": "27 Linden Boulevard"
+  },
+  {
+    "id": "7a0f7d18-3c50-49d5-bdd7-072ade2fbd7d",
+    "organisationName": "KINETICA",
+    "organisationAddress": "42 Grand Avenue"
+  },
+  {
+    "id": "05ea3f76-f911-4234-83cd-3e96c83b3f36",
+    "organisationName": "ZEPITOPE",
+    "organisationAddress": "48 Bethel Loop"
+  },
+  {
+    "id": "69727ee6-7cbd-4f29-96ae-d9f72d3e1235",
+    "organisationName": "MEDALERT",
+    "organisationAddress": "68 Ebony Court"
+  },
+  {
+    "id": "8f2af97c-5468-4296-a514-57e5fc623f55",
+    "organisationName": "QUIZMO",
+    "organisationAddress": "48 Pine Street"
+  },
+  {
+    "id": "43b574bb-c9dc-4ff1-b73d-35efff3cafcc",
+    "organisationName": "TINGLES",
+    "organisationAddress": "86 Powell Street"
+  },
+  {
+    "id": "29e23eb0-39bc-49a1-ad95-b7c8fa1b97b1",
+    "organisationName": "POOCHIES",
+    "organisationAddress": "41 Stockton Street"
+  },
+  {
+    "id": "a95629cb-56b4-4442-a440-7d7f09f6d23a",
+    "organisationName": "VERBUS",
+    "organisationAddress": "61 Rapelye Street"
+  }
+]

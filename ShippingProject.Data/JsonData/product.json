@@ -1,0 +1,157 @@
+[
+
+  {
+    "id": "9302jdk9-f547-4a59-8fc5-1ec241eecf4f",
+    "productName": "Refrigirator",
+    "manufacturer": "Hisense",
+    "description": "sequat Lorem aliquip sunt proident laborum.",
+    "price": "801.87",
+    "category": {
+      "id": "40kw1637-1920-4b41-8ea8-23a23c7ded67",
+      "name": "Electronics",
+      "description": "idatat in enim reprehenderit sint nisi."
+    },
+    "orderDetail": {
+      "id": "49d090s6-f01b-4ca3-a619-8a5a289d0c8f",
+      "status": "Pending",
+      "quantity": 12,
+      "totalPrice": "65937.33",
+      "order": {
+        "id": "6cefa902-af8e-491d-998f-12bd26864741",
+        "orderNo": 12323,
+        "customer": {
+          "id": " D90OB3D1-24A6-4448-9029-2D2F92F6DC98",
+          "fullName": "Masson Messi",
+          "address": {
+            "Id": "dg7k908b-f28d-4b79-b40c-dc8a3203dc0a",
+            "Country": "Spain",
+            "State": "Barcelona",
+            "City": "Catalona"
+          }
+        },
+        "supplier": {
+          "id": "o0s97d18-3c50-49d5-bdd7-072ade2fbd7d",
+          "organisationName": "Fast&Save",
+          "organisationAddress": "29 lissen wilson"
+        }
+      }
+    }
+  },
+
+
+  {
+    "id": "as9jd739-f547-4a59-8fc5-1ec241eecf4f",
+    "productName": "Television",
+    "manufacturer": "Sony",
+    "description": " officia consequat Lorem aliquip sunt proident laborum.",
+    "price": "81.87",
+    "category": {
+      "id": "0s879nsj-1920-4b41-8ea8-23a23c7ded67",
+      "name": "Electronics",
+      "description": "suia in enim reprehenderit sint nisi."
+    },
+    "orderDetail": {
+      "id": "930hjs82-f01b-4ca3-a619-8a5a289d0c8f",
+      "status": "Successful",
+      "quantity": 4,
+      "totalPrice": "34937.33",
+      "order": {
+        "id": "6c4g0h4e-af8e-491d-998f-12bd26864741",
+        "orderNo": 19389,
+        "customer": {
+          "id": " AID920ND-24A6-4448-9029-2D2F92F6DC98",
+          "fullName": "Lison Greenwood",
+          "address": {
+            "Id": "oa903msj-f28d-4b79-b40c-dc8a3203dc0a",
+            "Country": "Nigeria",
+            "State": "Oyo",
+            "City": "Ibadan"
+          }
+        },
+        "supplier": {
+          "id": "ka029hd7-3c50-49d5-bdd7-072ade2fbd7d",
+          "organisationName": "SafeBoda",
+          "organisationAddress": "P20a Bere estate"
+        }
+      }
+    }
+  },
+
+
+  {
+    "id": "ak0389j2-f547-4a59-8fc5-1ec241eecf4f",
+    "productName": "Spark10",
+    "manufacturer": "Tecno",
+    "description": "Lishd tempor officia consequat Lorem aliquip sunt proident laborum.",
+    "price": "50.87",
+    "category": {
+      "id": "28jis092-1920-4b41-8ea8-23a23c7ded67",
+      "name": "Telephone",
+      "description": "osujs in enim reprehenderit sint nisi."
+    },
+    "orderDetail": {
+      "id": "aso0290j-f01b-4ca3-a619-8a5a289d0c8f",
+      "status": "Successful",
+      "quantity": 30,
+      "totalPrice": "15937.33",
+      "order": {
+        "id": "koa90hj8-af8e-491d-998f-12bd26864741",
+        "orderNo": 29018,
+        "customer": {
+          "id": "OSI902GH-24A6-4448-9029-2D2F92F6DC98",
+          "fullName": "Ayodeji Elijah",
+          "address": {
+            "Id": "ak90s934-f28d-4b79-b40c-dc8a3203dc0a",
+            "Country": "China",
+            "State": "Hong Kong",
+            "City": "Chinlin"
+          }
+        },
+        "supplier": {
+          "id": "a098hdi2-3c50-49d5-bdd7-072ade2fbd7d",
+          "organisationName": "Luotang",
+          "organisationAddress": "29 City of peace Line"
+        }
+      }
+    }
+  },
+
+
+  {
+    "id": "920384ud-f547-4a59-8fc5-1ec241eecf4f",
+    "productName": "Benz sparrowBlade",
+    "manufacturer": "Benz",
+    "description": " officia consequat Lorem aliquip sunt proident laborum.",
+    "price": "10801.87",
+    "category": {
+      "id": "99osi892-1920-4b41-8ea8-23a23c7ded67",
+      "name": "Motocycle",
+      "description": "Liosi in enim reprehenderit sint nisi."
+    },
+    "orderDetail": {
+      "id": "is90hjk-f01b-4ca3-a619-8a5a289d0c8f",
+      "status": "Successful",
+      "quantity": 9,
+      "totalPrice": "2034937.33",
+      "order": {
+        "id": "kag67ud9-af8e-491d-998f-12bd26864741",
+        "orderNo": 90289,
+        "customer": {
+          "id": " AOPP029H-24A6-4448-9029-2D2F92F6DC98",
+          "fullName": "Adeosun Ayodeji",
+          "address": {
+            "Id": "al9039jd-f28d-4b79-b40c-dc8a3203dc0a",
+            "Country": "Nigeria",
+            "State": "Osun",
+            "City": "Osogbo"
+          }
+        },
+        "supplier": {
+          "id": "ms90ji2k-3c50-49d5-bdd7-072ade2fbd7d",
+          "organisationName": "Xender",
+          "organisationAddress": "U.S.A 23 mailtore Plaza"
+        }
+      }
+    }
+  }
+]

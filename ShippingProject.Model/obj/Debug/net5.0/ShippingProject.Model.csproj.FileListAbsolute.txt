@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\bin\Debug\net5.0\ShippingProject.Model.deps.json
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\bin\Debug\net5.0\ShippingProject.Model.dll
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\bin\Debug\net5.0\ShippingProject.Model.pdb
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\obj\Debug\net5.0\ShippingProject.Model.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\obj\Debug\net5.0\ShippingProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\obj\Debug\net5.0\ShippingProject.Model.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\obj\Debug\net5.0\ShippingProject.Model.AssemblyInfo.cs
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\obj\Debug\net5.0\ShippingProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\obj\Debug\net5.0\ShippingProject.Model.dll
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\obj\Debug\net5.0\refint\ShippingProject.Model.dll
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\obj\Debug\net5.0\ShippingProject.Model.pdb
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\obj\Debug\net5.0\ref\ShippingProject.Model.dll
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\bin\Debug\net5.0\ShippingProject.Model.runtimeconfig.json
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\bin\Debug\net5.0\ShippingProject.Model.runtimeconfig.dev.json
+C:\Users\User\Desktop\Repos\shipingProjectDemo\ShippingProject.Model\obj\Debug\net5.0\ShippingProject.Model.genruntimeconfig.cache
